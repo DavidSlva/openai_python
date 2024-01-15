@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+openai-env/
+
+# Environments configuration
+pyvenv.cfg
+
+# Windows image file caches
+Thumbs.db
+
+# Folder view configuration files
+Desktop.ini
+
+# Files that might appear in the root of a volume
+.DS_Store
+
+# Ignore all log files and the directory that might contain them
+*.log
+logs/
